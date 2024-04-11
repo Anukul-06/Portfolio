@@ -63,6 +63,7 @@ The goal of our project is to Create a Trojan Detection tool to detect Trojans f
 # CERTIFICATES
  
 Ethical Hacking Essential , EC-council (06/2023 - 08/2023)
+
 Certified Ethical Hacker [ CEH ] Training ,EC-council (04/2023 - Present)
 
 
