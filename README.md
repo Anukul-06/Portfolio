@@ -24,35 +24,35 @@ Paloalto
 
 
 # SKILLS
-Penetration Testing
-Vulnarability Assessment
-Threat Analysis
-Frontend Developer
-MongoDb
+Penetration Testing,
+Vulnarability Assessment,
+Threat Analysis,
+Frontend Developer,
+MongoDb.
 
 
 # TECHNICAL SKILLS
 
 Tools & Technology:
-Firewall
-Encryption Technologies
-VPNs
-Security Tools [ Burpsuit,Nmap,Metasploit,kaliTools]
+Firewall,
+Encryption Technologies,
+VPNs,
+Security Tools [ Burpsuit,Nmap,Metasploit,kaliTools].
 
 Programming Languages:
-c
-Python
-HTML
-Java Basics
+c,
+Python,
+HTML,
+Java Basics.
 
 Course Work:
-DSA
-OS
-DBMS
-Cyber security
-Cryptography and Network Security
-Digital Forensics
-Linux tools
+DSA,
+OS,
+DBMS,
+Cyber security,
+Cryptography and Network Security,
+Digital Forensics,
+Linux tools.
 
 # PERSONAL PROJECT 
  
@@ -69,6 +69,7 @@ Certified Ethical Hacker [ CEH ] Training ,EC-council (04/2023 - Present)
 # ACHIEVEMENTS
 Hack the Box (10/2023 - Present)
 Top 700 worldwide ranking , pwnd several machines having access at the rool/user level.
+
 Pentathon-2024 (03/2024 - 03/2024)
 Top 100 among 5000 teams participated in world wide CTF challenge
 
@@ -76,20 +77,20 @@ Top 100 among 5000 teams participated in world wide CTF challenge
 # LANGUAGES
 
  
-English
-Full Professional Proficiency
+English,
+Full Professional Proficiency.
  
-Hindi
-Full Professional Proficiency
+Hindi,
+Full Professional Proficiency.
  
-Telugu
-Full Professional Proficiency
+Telugu,
+Full Professional Proficiency.
 
 
 # INTRESTS
 
-CTF's
-Playing cricket
-Reading Books
-Playing nusic
+CTF's,
+Playing cricket,
+Reading Books,
+Playing nusic.
 
